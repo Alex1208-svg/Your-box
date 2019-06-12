@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+    <html lang="ru">
+    <head>
+        <meta charset="utf-8">
+        <title>site</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+        <body>
+            <div class="f">
+            <header class="r">Заголовок сайта</header>
+            <div class="g"></div>
+            <div class="h"></div>
+            <div class="k"></div>
+            </div>
+            <div class="z">
+                <div class="a"><a href="x2.html">главная</a></div>
+                <div class="b"><a href="x.html">o нас</a></div>
+                <div class="c">услуги<div class="m"></div><div class="l">HTML</div><div class="l">CSS</div><div class="l">JS</div></div>
+                <div class="d"><a href="x3.html">контакты</a></div>
+            </div>
+            <div class="w">
+            <div class="picter"></div>
+            <div class="s"></div>
+            <div class="e">Заголовок</div>
+            <div><p class="o">Для редактирования <br>данного текста дважды <br> кликните по нему.</p></div>
+            </div>
+            <div>
+                <div class="t"><p class="i">Заголовок</p></div>
+                <div class="y"><p class="i">Заголовок</p></div>
+                <div class="u"><p class="i">Заголовок</p></div>
+            </div>
+        </body>
+</html>
