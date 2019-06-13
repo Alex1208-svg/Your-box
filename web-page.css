@@ -1,0 +1,530 @@
+.a{
+    display: flex;
+    justify-content: center;
+    color: skyblue;
+}
+.q{
+    margin: 10px 30px 0px 0px;
+}
+.w{
+    margin: 10px 30px 0px 0px;
+}
+.e{
+    margin: 10px 450px 0px 0px;
+}
+.f{
+    margin: 6px 10px 0px 0px;
+}
+.g{
+    margin: 6px 10px 0px 0px;
+}
+.s{
+    background-image: url(1.png);
+    width: 45px;
+    height: 45px;
+    background-size: cover;
+}
+.f{
+    background-image: url(2.png);
+    width: 30px;
+    height: 30px;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+.g{
+    background-image: url(3.jpg);
+    width: 40px;
+    height: 30px;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+.d{
+    background-image: url(4.png);
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    display: flex;
+    justify-content: flex-end;
+}
+.j{
+    display: flex;
+    align-items: center;
+}
+.h{
+    background-image: url(5.jpg);
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    margin: 5px 10px 10px 0px;
+}
+.k{
+    display: flex;
+    justify-content: center; 
+}
+.n{
+    display: flex;
+    align-items: center;
+    margin: 0px 100px 10px 0px;
+    font-size: 30px;
+}
+.l{
+    display: flex;
+    align-items: center;
+    margin: 0px 50px 10px 0px;
+}
+.l:hover{
+    color: blue;
+    display: flex;
+    align-items: center;
+    margin: 0px 50px 10px 0px;
+    cursor: pointer;
+}
+.ll{
+    display: flex;
+    align-items: center;
+    margin: 0px 50px 10px 0px;
+}
+.ll:hover{
+    color: blue;
+    display: flex;
+    align-items: center;
+    margin: 0px 50px 10px 0px;
+    cursor: pointer;
+}
+.lll{
+    display: flex;
+    align-items: center;
+    margin: 0px 50px 10px 0px;
+}
+.lll:hover{
+    color: blue;
+    display: flex;
+    align-items: center;
+    margin: 0px 50px 10px 0px;
+    cursor: pointer;
+}
+.llll{
+    display: flex;
+    align-items: center;
+    margin: 0px 50px 10px 0px;
+    cursor: pointer;
+}
+.llll:hover{
+    color: blue;
+    display: flex;
+    align-items: center;
+    margin: 0px 50px 10px 0px;
+    cursor: pointer;
+}
+.lllll{
+    display: flex;
+    align-items: center;
+    margin: 0px 50px 10px 0px;
+}
+.lllll:hover{
+    color: blue;
+    display: flex;
+    align-items: center;
+    margin: 0px 50px 10px 0px;
+    cursor: pointer;
+}
+
+.llllll{
+    display: flex;
+    align-items: center;
+    margin: 0px 50px 10px 0px;
+}
+.llllll:hover{
+    color: blue;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    margin: 0px 50px 10px 0px;
+}
+.lllllll{
+    display: flex;
+    align-items: center;
+    margin: 0px 50px 10px 0px;
+}
+.lllllll:hover{
+    color: blue;
+    display: flex;
+    align-items: center;
+    margin: 0px 50px 10px 0px;
+    cursor: pointer;
+}
+.m{
+    border: solid transparent;
+    border-top: 5px solid gray;
+    width: 0;
+    height: 0;
+    background: transparent; 
+}
+.v{
+    background-image: url(6.jpg);
+    width: 20px;
+    height: 20px;
+    background-size: cover;
+    margin: 20px 10px 10px 30px;
+}
+.c{
+    background-color: darkturquoise;
+    width: 1590px;
+    height: 500px;
+    background-size: cover;
+    position: relative;
+}
+.x{
+    background-image: url(7.png);
+    background-color: darkturquoise;
+    width: 500px;
+    height: 500px;
+    background-size: cover;
+    margin: 0px 10px 10px 300px;
+}
+.p{
+   position: absolute;
+   top: 100px;
+   right: 450px;
+   color: white;
+   font-size: 20px;
+}
+.i{
+    color: white;
+    font-size: 30px;
+}
+.b{
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: deepskyblue;
+    padding: 10px;
+    width: 140px;
+    position: absolute;
+    top: 170px;
+    right: 155px;
+    font-size: 17px;
+}
+a{
+    color: white;
+    text-decoration-line: none;
+}
+.z{
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 10px;
+    width: 140px;
+    position: absolute;
+    top: 170px;
+    left: 185px;
+    background-color:  deepskyblue;
+    font-size: 18px;
+}
+.o{
+    border: 3px solid white;
+    border-top: none;
+    border-right: none;
+    width: 20px;
+    height: 20px;
+    transform: rotate(50deg);
+    position: absolute;
+    top: 210px;
+    left: 30px;
+}
+.y{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 194px;
+    left: 10px;
+    background-color: gray;
+    border: 3px solid gray;
+}
+.r{
+    border: 3px solid white;
+    border-top: none;
+    border-left: none;
+    width: 20px;
+    height: 20px;
+    transform: rotate(-50deg);
+    position: absolute;
+    top: 210px;
+    right: 30px;
+}
+.u{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 194px;
+    right: 10px;
+    background-color: gray;
+    border: 3px solid gray;
+}
+.t{
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    bottom: 15px;
+    right: 430px;
+    background-color: aqua;
+    border: 1px solid white;
+}
+.dddd{
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    bottom: 15px;
+    right: 450px;
+    background-color: white;
+    border: 1px solid white;
+}
+.dd{
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    bottom: 15px;
+    right: 410px;
+    background-color: white;
+    border: 1px solid white;
+}
+.ddd{
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    bottom: 15px;
+    right: 390px;
+    background-color: white;
+    border: 1px solid white;
+}
+.plane{
+    background-image: url(8.png);
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    position: absolute;
+    top: 50px;
+    left: 360px;
+    border-radius: 50%;
+}
+.plane:hover{
+    border: 5px solid gray;
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    background-image: url(8.png);
+    background-size: cover;
+    top: 50px;
+    left: 360px;
+    border-radius: 50%;
+}
+.basket{
+    background-image: url(9.png);
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    position: absolute;
+    top: 50px;
+    left: 660px;
+     border-radius: 50%;
+}
+.basket:hover{
+    background-image: url(9.png);
+    border: 5px solid gray;
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    position: absolute;
+    top: 50px;
+    left: 660px;
+     border-radius: 50%;
+}
+.sms{
+    background-image: url(10.jpg);
+    width: 55px;
+    height: 50px;
+    background-size: cover;
+    position: absolute;
+    top: 50px;
+    left: 960px;
+     border-radius: 50%;
+}
+.sms:hover{
+    background-image: url(10.jpg);
+    border: 5px solid gray;
+    cursor: pointer;
+    width: 55px;
+    height: 45px;
+    background-size: cover;
+    position: absolute;
+    top: 50px;
+    left: 960px;
+     border-radius: 50%;
+}
+.computer{
+    background-image: url(11.jpg);
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    position: absolute;
+    top: 50px;
+    left: 1260px;
+     border-radius: 50%;
+}
+.computer:hover{
+    background-image: url(11.jpg);
+    border: 5px solid gray;
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    position: absolute;
+    top: 50px;
+    left: 1260px;
+     border-radius: 50%;
+}
+.all{
+    position: relative;
+}
+.lear a{
+    color: blue;
+    text-decoration-line: underline;
+    position: absolute;
+    top: 200px;
+    left: 345px;
+}
+.lear2 a{
+    color: blue;
+    text-decoration-line: underline;
+    position: absolute;
+    top: 200px;
+    left: 645px;
+}
+.lear3 a{
+    color: blue;
+    text-decoration-line: underline;
+    position: absolute;
+    top: 200px;
+    left: 945px;
+}
+.lear4 a{
+    color: blue;
+    text-decoration-line: underline;
+    position: absolute;
+    top: 200px;
+    left: 1245px;
+}
+.pp{
+    position: absolute;
+    top: 110px;
+    left: 300px;
+    font-weight: 700;
+}
+.ppp{
+    position: absolute;
+    top: 110px;
+    left: 600px;
+    font-weight: 700;
+}
+.pppp{
+    position: absolute;
+    top: 110px;
+    left: 900px;
+    font-weight: 700;
+}
+.ppppp{
+    position: absolute;
+    top: 110px;
+    left: 1200px;
+    font-weight: 700;
+}
+.oo{
+    position: absolute;
+    top: 140px;
+    left: 310px;
+    color: gray;
+    font-size: 15px;
+}
+.ooo{
+    position: absolute;
+    top: 140px;
+    left: 600px;
+    color: gray;
+    font-size: 15px;
+}
+.oooo{
+    position: absolute;
+    top: 140px;
+    left: 900px;
+    color: gray;
+    font-size: 15px;
+}
+.ooooo{
+    position: absolute;
+    top: 140px;
+    left: 1200px;
+    color: gray;
+    font-size: 15px;
+}
+.aa{
+    position: absolute;
+    top: 155px;
+    left: 280px;
+    color: gray;
+    font-size: 15px;    
+}
+.aaaa{
+    position: absolute;
+    top: 155px;
+    left: 870px;
+    color: gray;
+    font-size: 15px;    
+}
+.aaaaa{
+    position: absolute;
+    top: 155px;
+    left: 1165px;
+    color: gray;
+    font-size: 15px;    
+}
+.aaa{
+    position: absolute;
+    top: 155px;
+    left: 575px;
+    color: gray;
+    font-size: 15px;    
+}
+.ss{
+    position: absolute;
+    top: 170px;
+    left: 305px;
+    color: gray;
+    font-size: 15px;
+}
+.sss{
+    position: absolute;
+    top: 170px;
+    left: 600px;
+    color: gray;
+    font-size: 15px;
+}
+.ssss{
+    position: absolute;
+    top: 170px;
+    left: 900px;
+    color: gray;
+    font-size: 15px;
+}
+.sssss{
+    position: absolute;
+    top: 170px;
+    left: 1200px;
+    color: gray;
+    font-size: 15px;
+}
