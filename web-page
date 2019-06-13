@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="web.css">
+    </head>
+    <body>
+   <div class="a">
+       <div class="s"></div>
+       <div class="q">zemcev-andrei@mail.ru</div>
+       <div class="f"></div>
+       <div class="w">+79624505158</div>
+       <div class="g"></div>
+       <div class="e">zemcev-andrei</div>
+       <a href="4.png"><div class="d"></div></a>
+       <div class="j">Cart[0]item</div>
+        </div>
+        <hr>
+        <div class="k">
+        <div class="h"></div>
+        <div class="n"><span style="color: gray">ADEL</span><strong>FOX</strong></div>
+            <div class="l">Home<div class="m"></div></div>
+            <div class="ll">Pages<div class="m"></div></div>
+            <div class="lll">Portfolio<div class="m"></div></div>
+            <div class="llll">Shop<div class="m"></div></div>
+            <div class="lllll">Block<div class="m"></div></div>
+            <div class="llllll">Shotrcodes<div class="m"></div></div>
+            <div class="lllllll">Features<div class="m"></div></div>
+            <div class="v"></div>
+        </div>
+        <div class="c">
+        <div class="x"></div>
+            <div class="y"></div>
+            <div class="o"></div>
+            <div class="u"></div>
+            <div class="r"></div>
+            <div class="dddd"></div>
+            <div class="t"></div>
+            <div class="dd"></div>
+            <div class="ddd"></div>
+            <div class="p">WE ALWAYS<div class="i">CREATE THE MAGIC</div><br>Create the difference is our jop.We love<br>all things design related.Please also we<br>discover the colour of creativity.<div class="b"><a href="7.png">PURCHASE NOW</a></div><div class="z"><a href="5.jpg">LEARN MORE</a></div></div>
+        </div>
+        <div class="all">
+            <div class="plane2"><div class="plane"></div></div>
+            <div class="pp">Clean and Unique Design</div><br><br><div class="oo">Fusce gravida tortor felis</div><br><div class="aa">Ac dictum fisus sagittis id morbi posu</div><br><div class="ss">justo eleifend libero ultricies</div><div class="lear"><a href="8.png">LEAR MORE</a></div>
+            <div class="basket"></div>
+            <div class="ppp">Amazing Online Store</div><br><br><div class="ooo">Fusce gravida tortor felis</div><br><div class="aaa">Ac dictum fisus sagittis id morbi posu</div><br><div class="sss">justo eleifend libero ultricies</div><div class="lear2"><a href="9.png">LEAR MORE</a></div>
+            <div class="sms"></div>
+            <div class="pppp">Amazing Online Store</div><br><br><div class="oooo">Fusce gravida tortor felis</div><br><div class="aaaa">Ac dictum fisus sagittis id morbi posu</div><br><div class="ssss">justo eleifend libero ultricies</div><div class="lear3"><a href="10.jpg">LEAR MORE</a></div>
+            <div class="computer"></div>
+            <div class="ppppp">Amazing Online Store</div><br><br><div class="ooooo">Fusce gravida tortor felis</div><br><div class="aaaaa">Ac dictum fisus sagittis id morbi posu</div><br><div class="sssss">justo eleifend libero ultricies</div><div class="lear4"><a href="11.jpg">LEAR MORE</a></div>
+        </div>
+    </body>
+</html>
